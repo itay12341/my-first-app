@@ -1,0 +1,1 @@
+echo "don't die"
